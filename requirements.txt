@@ -1,0 +1,10 @@
+ipykernel
+langchain_community
+pymupdf
+chromadb
+langchain-text-splitters
+torch
+sentence_transformers
+python-dotenv
+langchain_openai
+rank_bm25
