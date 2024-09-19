@@ -3,8 +3,9 @@ langchain_community
 pymupdf
 chromadb
 langchain-text-splitters
-torch
 sentence_transformers
 python-dotenv
 langchain_openai
 rank_bm25
+torch==2.4.1+cu121 --index-url https://download.pytorch.org/whl/cu121
+flask
